@@ -1,12 +1,12 @@
 #freeCodeCamp Product Landing Project
 
-User Story #1: My product landing page should have a header element with a corresponding id="header".
+User Story #1: My product landing page should have a header element with a corresponding id="header". DONE
 
-User Story #2: I can see an image within the header element with a corresponding id="header-img". A company logo would make a good image here.
+User Story #2: I can see an image within the header element with a corresponding id="header-img". A company logo would make a good image here.DONE
 
-User Story #3: Within the #header element I can see a nav element with a corresponding id="nav-bar".
+User Story #3: Within the #header element I can see a nav element with a corresponding id="nav-bar". DONE
 
-User Story #4: I can see at least three clickable elements inside the nav element, each with the class nav-link.
+User Story #4: I can see at least three clickable elements inside the nav element, each with the class nav-link. DONE
 
 User Story #5: When I click a .nav-link button in the nav element, I am taken to the corresponding section of the landing page.
 
