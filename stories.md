@@ -1,7 +1,7 @@
 #freeCodeCamp Product Landing Project
 
 [x] User Story #1: My product landing page should
-have a header element with a corresponding
+hav a header element with a corresponding
 id="header". 
 
 [x] User Story #2: I can see an image within the
@@ -17,11 +17,11 @@ id="nav-bar".
 clickable elements inside the nav element, each
 with the class nav-link. 
 
-[] User Story #5: When I click a .nav-link button
+[x] User Story #5: When I click a .nav-link button
 in the nav element, I am taken to the
 corresponding section of the landing page.
 
-[] User Story #6: I can watch an embedded product
+[x] User Story #6: I can watch an embedded product
 video with id="video".
 
 [x] User Story #7: My landing page has a form
