@@ -1,3 +1,26 @@
-#e0bd04 -> orange 
-#2a2a2a -> dark gray 
+/*#e0bd04 -> orange */
+/*#2a2a2a -> dark gray */
 
+@font-face {
+  font-family: "Bukhari Script";
+  src: url("/fonts/Bukhari-Script.ttf") format("truetype");
+}
+body {
+  font-family: sans-serif;
+}
+h1 {
+  font-family: "Bukhari Script";
+}
+
+header {
+  display: flex;
+}
+
+nav ul {
+  display: flex;
+  list-style: none;
+}
+
+nav ul a {
+  text-decoration: none;
+}
