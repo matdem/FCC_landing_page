@@ -3,24 +3,50 @@
 
 @font-face {
   font-family: "Bukhari Script";
-  src: url("/fonts/Bukhari-Script.ttf") format("truetype");
+  src: url("./fonts/Bukhari-Script.ttf") format("truetype");
 }
+
+@import url("https://fonts.googleapis.com/css2?family=Ubuntu&display=swap");
+
 body {
-  font-family: sans-serif;
+  font-family: "Ubuntu", sans-serif;
+  margin: 0;
 }
+
+/* === HEADER === */
+
 h1 {
   font-family: "Bukhari Script";
+  font-size: 52px;
 }
 
 header {
   display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 0;
+  padding: 0;
+  background-color: #e0bd04;
 }
 
+#logo-name {
+  padding-left: 10px;
+}
+nav {
+  align-self: flex-end;
+  margin: 0;
+  font-size: 1.2em;
+}
 nav ul {
   display: flex;
+  justify-content: space-between;
   list-style: none;
+  font-weight: bold;
+  margin: 0;
 }
 
 nav ul a {
   text-decoration: none;
+  color: black;
+  padding: 10px;
 }
